@@ -23,7 +23,8 @@ title: AttRact
 
   
   
-
+  
+  
 ## イベント参加
 
 - [Sendai Micro Maker Faire 2022](https://makezine.jp/event/makerfaire/smmf2022/) にて、アプリAttRactの展示をおこないます！
