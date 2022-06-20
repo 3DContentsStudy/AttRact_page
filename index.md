@@ -1,5 +1,9 @@
-# AttRact
+---
+layout: default
+title: AttRact
+---
 
+# AttRact
 
 
 ## "AttRact" とは？
