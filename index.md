@@ -13,7 +13,7 @@
 
 [**紹介動画をYouTubeにて公開中！**](https://youtu.be/ffVy2FNgCqo)
 
-<iframe width="560" height="500" src="https://www.youtube.com/embed/ffVy2FNgCqo" title="YouTube video player" frameborder="0" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffVy2FNgCqo" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
