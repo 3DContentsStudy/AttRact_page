@@ -1,4 +1,4 @@
-# AttRact Test
+# AttRact
 
 
 
@@ -9,9 +9,14 @@
 待ち合わせをする方同士で位置情報をやり取りし、
 スマホの画面越しにお互いをマーカー表示して、お相手を簡単に見つけ出します！
 
+<img src="./fig/AttRact2022.png" alt="AttRact" style="zoom:50%;" />
+
 [**紹介動画をYouTubeにて公開中！**](https://youtu.be/ffVy2FNgCqo)
 
-<iframe width="560" height="450" src="https://www.youtube.com/embed/ffVy2FNgCqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube.com/embed/ffVy2FNgCqo" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## イベント参加
 
