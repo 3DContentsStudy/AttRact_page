@@ -13,7 +13,7 @@ title: AttRact
 待ち合わせをする方同士で位置情報をやり取りし、
 スマホの画面越しにお互いをマーカー表示して、お相手を簡単に見つけ出します！
 
-<img src="./fig/AttRact2022.png" alt="AttRact" style="zoom:50%;" />
+<img src="./fig/AttRact2022.png" alt="AttRact" width="320px" />
 
 [**紹介動画をYouTubeにて公開中！**](https://youtu.be/ffVy2FNgCqo)
 
