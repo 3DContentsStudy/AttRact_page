@@ -1,15 +1,17 @@
 # AttRact Test
 
-[toc]
+
 
 ## "AttRact" とは？
 
-- “待ち合わせの形を変える” スマートフォンアプリです。
+待ち合わせを簡単にする、AR型スマートフォンアプリです。
 
-- 詳細？
-- 動画も？
+待ち合わせをする方同士で位置情報をやり取りし、
+スマホの画面越しにお互いをマーカー表示して、お相手を簡単に見つけ出します！
 
+[**紹介動画をYouTubeにて公開中！**](https://youtu.be/ffVy2FNgCqo)
 
+<iframe width="560" height="450" src="https://www.youtube.com/embed/ffVy2FNgCqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## イベント参加
 
@@ -19,17 +21,13 @@
 
 
 
-## Twitter
+## Twitter & Mail
 
-- https://twitter.com/att_ract
+- [twitter](https://twitter.com/att_ract)
+- Mail: [attract3dcgs@gmail.com](attract3dcgs@gmail.com)
 
 
 
 ## アップデート情報
 
-
-
-## お問い合わせ先
-
-- Mail: attract3dcgs@gmail.com
-
+2022年 9月 リリース予定！
